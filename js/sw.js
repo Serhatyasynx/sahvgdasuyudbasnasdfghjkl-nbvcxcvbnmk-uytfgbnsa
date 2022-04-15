@@ -1,0 +1,1 @@
+self.addEventListener('install',e=>console.log('pwa added.'));self.addEventListener('fetch',event=>{});
